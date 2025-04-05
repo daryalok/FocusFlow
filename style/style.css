@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    background: #f3f4f6;
+    padding: 2rem;
+    text-align: center;
+}
+
+.app {
+    max-width: 400px;
+    margin: auto;
+    background: white;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+button {
+    margin: 0.5rem;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+.done {
+    text-decoration: line-through;
+    color: gray;
+}
